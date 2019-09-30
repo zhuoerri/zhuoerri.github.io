@@ -3,6 +3,7 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    byebug (11.0.1)
     colorator (1.1.0)
     ffi (1.11.1)
     forwardable-extended (2.6.0)
@@ -56,6 +57,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  byebug
   jekyll (= 3.5.1)
   jekyll-feed (~> 0.6)
   jekyll-paginate
